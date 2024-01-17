@@ -6,7 +6,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/kunalbramhanka2" target="blank"><img src="https://img.shields.io/twitter/follow/kunalbramhanka2?logo=twitter&style=for-the-badge" alt="kunalbramhanka2" /></a> </p>
 
 - 🌱 I’m currently learning **Java, ReactJS**
 
